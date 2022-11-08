@@ -10,10 +10,4 @@ console.log(
     `
 );
 
-document.getElementById("p-nome").innerHTML = "Il nome inserito è: " + nome;
-document.getElementById("p-cognome").innerHTML = cognome;
-document.getElementById("p-colore").innerHTML = colore;
-
-console.log(
-    
-)
+console.log(`nomecognomecolorepreferito21`)
